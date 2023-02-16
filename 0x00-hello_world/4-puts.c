@@ -1,4 +1,5 @@
-nclude <stdio.h>
+#!/bin/bash
+include <stdio.h>
 /**
  *  *main - main block
  *   *return:0
