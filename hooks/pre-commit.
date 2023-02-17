@@ -1,0 +1,2 @@
+#!/bin/sh
+betty -h $(git diff --name-only --cached | grep "\.c$")
